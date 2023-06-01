@@ -19,5 +19,5 @@ function fillArrayWithNumbers($length = 10, $min = 0, $max = 100)
 
 // Voorbeeld
 $myArray = fillArrayWithNumbers(5, 1, 10);
-print_r($myArray);
+showArray($myArray);
 ?>
